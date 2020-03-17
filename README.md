@@ -1,1 +1,1 @@
-# exo_algo
+Exercices d'algorithmie php/js, ensuite un dossier pour chaque exercice donné aujourd'hui
